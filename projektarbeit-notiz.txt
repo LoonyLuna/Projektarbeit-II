@@ -1,0 +1,4 @@
+
+Was mir aufgefallen ist:
+Du versuchst einige Male die Folgen von Softwarefehlern mit Rufschäden und Profit-Aspekten zu deuten. Diese Teile sind etwas schwammig bzw. sind die Folgen von Fehlverhalten für den Leser eines solchen Themas logisch.
+Ich würde raten hier nicht all zu sehr auszuholen, sondern dies nur kurz und ohne Interpretationen behandeln. Im Sinne von: Softwarefehler im Bereich CSS können zu Anzeigefehlern und zur Unebnutzbarkeit von Website und Webapplikationen führen. Dies gilt es zu vermeiden.
